@@ -1,9 +1,0 @@
-.logo-link {
-  display: flex;
-  height: 100%;
-  max-height: 72px;
-  outline: 2px solid transparent;
-  outline-offset: 5px;
-  align-items: center;
-  transition: outline-color var(--transition) var(--transition-func);
-}
